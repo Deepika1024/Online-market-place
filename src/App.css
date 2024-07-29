@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.App {
+  text-align: center;
+}
+
+a {
+  color: inherit;
+}
+
+button {
+  color: white;
+  background-color: #b7d3b7;
+}
